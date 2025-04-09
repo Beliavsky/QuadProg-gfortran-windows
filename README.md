@@ -1,2 +1,2 @@
 # QuadProg-gfortran-windows
-Version of QuadProg that works with gfortran on Windows
+Version of [QuadProg](https://github.com/loiseaujc/QuadProg) by Jean-Christophe Loiseau that works with gfortran on Windows.
